@@ -14,7 +14,9 @@ import animationData from "../animations/typing.json";
 
 import io from "socket.io-client";
 import { ChatState } from "../Context/ChatProvider";
-const ENDPOINT = "http://localhost:5000"; // "https://another-messenger.onrender.com/"; -> After deployment
+const ENDPOINT = "https://another-messenger.onrender.com/"; // "https://another-messenger.onrender.com/"; -> After deployment
+                                                            // "http://localhost:5000"; -> while working
+
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {
