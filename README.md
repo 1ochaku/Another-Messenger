@@ -7,18 +7,14 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Frontend**:
 - React
-- Axios 
-- Socket.io-client
 - Chakra UI
   
 **Backend**:
 - Node.js
 - Express
-- Socket.io
+
+**Database**
 - MongoDB
-- Mongoose
-- JWT (JSON Web Token) for authentication
-- bcryptjs (for password hashing)
 
 ## Installation
 
