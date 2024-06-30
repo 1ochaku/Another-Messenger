@@ -52,4 +52,12 @@ npm run start
 cd frontend/
 npm start
 ```
+## Features
+### Authentication
+
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Login.png)
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/SignUp.png)
+
+### Chat Box Window
+
 
