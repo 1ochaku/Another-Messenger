@@ -71,7 +71,7 @@ npm start
 
 ![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Search%20Tab.png)
 
-### View Other User Profile
+### View User Profile
 
 ![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Profile.png)
 
