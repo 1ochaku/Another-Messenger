@@ -58,6 +58,22 @@ npm start
 ![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Login.png)
 ![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/SignUp.png)
 
-### Chat Box Window
+### Chat Box Window && User Profile plus LogOut Window
+
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Chat%20Window.png)
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/UserProfile%26Logout.png)
+
+### Live Chatting and Notifications
+
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Live%20Chat%20and%20Typing%20Indicator.png)
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Notifications.png)
+
+### Search Users
+
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Search%20Tab.png)
+
+### View Other User Profile
+
+![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Profile.png)
 
 
