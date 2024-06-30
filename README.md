@@ -60,7 +60,6 @@ npm start
 
 ### Chat Box Window && User Profile plus LogOut Window
 
-![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/Chat%20Window.png)
 ![](https://github.com/1ochaku/Another-Messenger/blob/main/ScreenShots/UserProfile%26Logout.png)
 
 ### Live Chatting and Notifications
